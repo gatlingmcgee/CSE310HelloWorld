@@ -2,7 +2,7 @@
 
 HelloWorld program written in python using VSC. This program was created to verify development enviroment with VSC and GitHub.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=zLYuaIOFETo)
 
 # Development Environment
 
